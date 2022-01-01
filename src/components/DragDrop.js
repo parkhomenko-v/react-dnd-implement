@@ -34,7 +34,7 @@ class DragDrop extends React.Component {
                 }
             ]
         };
-        debugger;
+
         this.handleDragStart = this.handleDragStart.bind(this);
         this.handleDragEnd = this.handleDragEnd.bind(this);
         this.handleDropWip = this.handleDropWip.bind(this);
